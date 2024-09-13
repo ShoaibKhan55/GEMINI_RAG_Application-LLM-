@@ -1,1 +1,1 @@
-# GEMINI_RAG_Application-LLM-
+# RAG_Q&A_Application-LLM
